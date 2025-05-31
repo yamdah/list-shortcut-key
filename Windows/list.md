@@ -13,3 +13,5 @@
 | ctl + a    |     全体を選択 |   Excel    |
 | ctl + b    |     太字 |   Excel    |
 | ctl + home    |     シート先頭のセルを選択 |   Excel    |
+| Windows + e       |        エクスプローラーを開く |     -     |
+| Windows + l       |        画面をロックする |     -     |
