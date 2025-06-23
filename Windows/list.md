@@ -16,5 +16,7 @@
 | Windows + e   | エクスプローラーを開く | - |
 | Windows + l   | 画面をロックする | -  |
 | Windows + tab | タスクビュー | - |
+| Windows + ↑   | ウィンドウを最大化 | - |
+| Windows + ↓   | ウィンドウを最小化 | - |
 | alt + tab | ウィンドウ切り替え | - |
 
